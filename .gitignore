@@ -1,0 +1,14 @@
+.env
+*.conf
+*.token
+*.key
+cookie*
+*.cookie
+*.db
+*.sqlite
+__pycache__/
+*.pyc
+node_modules/
+config.yaml
+.venv/
+*.log
