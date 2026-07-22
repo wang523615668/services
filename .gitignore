@@ -12,3 +12,7 @@ node_modules/
 config.yaml
 .venv/
 *.log
+config.json
+.env.*
+*.secret
+auths/
